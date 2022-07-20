@@ -1,0 +1,9 @@
+{
+	"name": "WebScrapper",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f425c7a8-1486-4e81-8cdb-a61239b851fa",
+		"tenantId": "2b003019-7bb5-4904-a867-5651abbd358e"
+	}
+}
